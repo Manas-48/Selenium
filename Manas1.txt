@@ -1,0 +1,11 @@
+Information present in EWS Dashboard Report
+Brief Information about company
+News and Twitter Score for Company and its Industry
+Sentimental Analysis Graph
+Sentiment Comparison plots
+Index Plots
+Company
+Group
+Industry
+Backward Linkage
+Forward Linkage
